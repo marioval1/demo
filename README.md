@@ -6,3 +6,4 @@
 2. Modificando desde Github
 3. Add new line
 4. Estou adicionando esta linha sem fazer o pull do repositorio online no qual eu apaguei a linha#3
+5. Esta muito legal trabalhar com Github!
